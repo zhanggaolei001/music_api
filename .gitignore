@@ -1,0 +1,10 @@
+﻿# dependencies
+node_modules/
+
+# runtime caches
+cache/
+
+# misc
+*.log
+.DS_Store
+Thumbs.db
